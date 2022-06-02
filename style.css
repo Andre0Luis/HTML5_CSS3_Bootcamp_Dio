@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(241, 241, 241);
+}
+
+.perfil_image {
+    border: #505050;
+    border-radius: 40%;
+}
+
+#title,
+.subtitle,
+.post_title {
+    color: #505050;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 10px;
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.post {
+    background-color: white;
+    padding: 20px 20px 20px 50px;
+    border: 5px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.post_cotent {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_image {
+    margin-bottom: 15px;
+}

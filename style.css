@@ -1,6 +1,8 @@
 body {
     background-color: rgb(241, 241, 241);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 50%;
+    margin: auto;
 }
 
 .perfil_image {
@@ -45,10 +47,12 @@ a {
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .post_image {
     margin-bottom: 15px;
+    width: 850px;
 }
 
 .contacts_list {
